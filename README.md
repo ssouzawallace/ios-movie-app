@@ -4,8 +4,9 @@ Aplicação utilizando a API [https://www.themoviedb.org](https://www.themoviedb
 
 Funcionalidades principais:
 - Listagem da primeira página de filmes utilizando a API Discover
-- Preferências do usuário para escolha do idioma a ser usada nas resquisições e cor de destaque do app
 - Exibição de uma tela de detalhes do filme
+- Usaibilidade em interfaces de todos os tamanhos. Utilizando componentes nativos tanto no iOS quanto no iPadOS
+- Preferências do usuário para escolha do idioma a ser usada nas resquisições e cor de destaque do app
 
 Funcionalidades pendentes:
 - Filtro na tela de lista de idiomas
